@@ -4,7 +4,7 @@
 
 - This project is a house price prediction system that estimates property prices based on various features, with a focus on properties in Bangalore, Karnataka, India. 
 - It combines **machine learning** and **data science** techniques to provide accurate price predictions.
-
+  
 ## Demo
 
 **Watch the demo video of the project:**
@@ -25,40 +25,66 @@
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Data Storage:** CSV files for dataset
 
-## Installation
+## Installation and Usage
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rakheshkrishna2005/house-price-prediction.git
+   git clone https://github.com/user/house-price-prediction.git
+   ```
 
-2. **Navigate to the Server Directory:**
+2. **Navigate to the Project Directory:**
    ```bash
-   cd house-price-prediction/server
+   cd house-price-prediction
+   ```
 
 3. **Create a Virtual Environment (if not already created):**
    ```bash
    python -m venv venv
+   ```
 
 4. **Activate the Virtual Environment:**
-   ```bash
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - On macOS/Linux:
+     ```bash
+     source venv/bin/activate
+     ```
 
-5. **Install Dependencies:**
+6. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+   ```
 
-## Usage
+7. **Navigate to the Server Directory:**
+   ```bash
+   cd server
+   ```
 
-1. **Start the Server:**
-   In the terminal, navigate to the server directory and run:
+8. **Run the Server:**
    ```bash
    python server.py
+   ```
 
-2. **Run the Index HTML File:**
-   Open client/index.html in a web browser.
+9. **In a new terminal, navigate to the Client Directory:**
+   ```bash
+   cd house-price-prediction/client
+   ```
 
-3. **Access the Project:**
-   The project will be running at http://127.0.0.1:3000/client/index.html.
+10. **Run the HTML file:**
+    - On Windows:
+      ```bash
+      start index.html
+      ```
+    - On macOS:
+      ```bash
+      open client/index.html
+      ```
+    - On Linux:
+      ```bash
+      xdg-open client/index.html
+      ```
 
 ## Additional Information
 
