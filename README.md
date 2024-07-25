@@ -79,11 +79,11 @@
       ```
     - On macOS:
       ```bash
-      open client/index.html
+      open index.html
       ```
     - On Linux:
       ```bash
-      xdg-open client/index.html
+      xdg-open index.html
       ```
 
 ## Additional Information
