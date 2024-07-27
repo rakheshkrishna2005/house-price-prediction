@@ -85,6 +85,8 @@
       ```bash
       xdg-open index.html
       ```
+## Web Page
+<img src="https://github.com/rakheshkrishna2005/house-price-prediction/blob/main/project%20screenshots/Default%20page.png" alt="Web Page">
 
 ## Additional Information
 
