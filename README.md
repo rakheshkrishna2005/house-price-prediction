@@ -1,22 +1,22 @@
-# House Price Prediction
+# 🏡 House Price Prediction
 
-## Description
+## 📜 Description 
 
-- This project is a house price prediction system that estimates property prices based on various features, with a focus on properties in Bangalore, Karnataka, India. 
+- This project is a house price prediction system that estimates property prices based on various features, with a focus on properties in Bangalore, Karnataka, India.
 - It combines **machine learning** and **data science** techniques to provide accurate price predictions.
-  
-## Demo
+
+## 🎥 Demo
 
 **Watch the demo video of the project:**
 [Demo Video](https://drive.google.com/file/d/1ErYTNSzSI1jiRFhd3DmnzQNAyV7CnLGw/view?usp=sharing)
 
-## Features
+## 🌟 Features
 
 - Predict house prices based on features such as area, location, number of rooms, and more.
 - Interactive web interface for user input and displaying results.
 - Backend server implemented with Flask to handle predictions.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Programming Language:** Python
 - **Machine Learning Library:** Scikit-Learn
@@ -25,7 +25,7 @@
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Data Storage:** CSV files for dataset
 
-## Installation and Usage
+## 🚀 Installation and Usage
 
 1. **Clone the Repository:**
    ```bash
@@ -85,12 +85,13 @@
       ```bash
       xdg-open index.html
       ```
-## Web Page
+
+## 🌐 Web Page
 <img src="https://github.com/rakheshkrishna2005/house-price-prediction/blob/main/project%20screenshots/Default%20page.png" alt="Web Page">
 
-## Additional Information
+## 📚 Additional Resources
 
-- **Flask Documentation:** [Flask Documentation](https://flask.palletsprojects.com/en/latest/)
-- **Scikit-Learn Documentation:** [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
-- **Pandas Documentation:** [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- **NumPy Documentation:** [NumPy Documentation](https://numpy.org/doc/stable/)
+- [Flask Documentation](https://flask.palletsprojects.com/)
+- [NumPy Documentation](https://numpy.org/doc/stable/)
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
